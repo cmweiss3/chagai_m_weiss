@@ -42,7 +42,7 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 # Workshop Organizers 
 
  - [Rebecca Littman](http://www.rebeccalittman.com/) - [<i class="fas fa-envelope"></i>](mailto:rlittman@uic.edu)
- - [Alexandra Sccaco] - (https://www.wzb.eu/en/persons/alexandra-scacco)  [<i class="fas fa-envelope"></i>](mailto:alex.scacco@wzb.eu)
+ - [Alexandra Sccaco](https://www.wzb.eu/en/persons/alexandra-scacco) - [<i class="fas fa-envelope"></i>](mailto:alex.scacco@wzb.eu)
  - [Chagai M. Weiss](https://www.chagaimweiss.com/) - [<i class="fas fa-envelope"></i>](mailto:cmweiss3@wisc.edu)
  - [Cara Wong](http://carawong.org/) - [<i class="fas fa-envelope"></i>](mailto:carawong@illinois.edu)
 
