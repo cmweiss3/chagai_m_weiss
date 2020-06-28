@@ -23,21 +23,19 @@ IGR seeks to bring together an interdisciplinary group of scholars engaged in em
 
 IGR is a “read-ahead” working group, meaning that selected presenters will circulate a research design, pre-analysis plan, or working paper a few weeks before the meeting. All attendees will be expected to read the selected materials in advance, and come prepared with comments. The meeting will be spent discussing each paper and providing feedback to authors  (there will be no presentations to maximize discussion time for each paper).
 
-**IGR 1: August 3, 2020**
-* *Insert Time*
- + Evan deFillipis and Josh Greene, “Epistemic Cooperation: A Quiz-Game Intervention To Reduce Political Polarization”, Chair: Alex Scacco
- + Sylvia Perry and Allison Skinner, “A laboratory procedure to facilitate conversations about race within White families in the U.S.”, Chair: Efren Perez
- + Nejla Asimovic, Ruth Ditlmann, & Cyrus Samii, “Training Ambassadors for Peace: A Field Experiment on an Intergroup Contact Program in Israel”, chair: — Kimuli Kasara 
- + Evan Lieberman and Allison Harell, “Does Reporting Racial and Ethnic Disease Burdens Help or Hurt Government Responses?”, Chair: TBD
- + Salma Mousa, “Contact in the Classroom: Can Virtual Exchanges Build Tolerance?”, Chair: TBD
+**IGR 1: August 3, 2020** *Insert Time*
+ - **Evan deFillipis and Josh Greene**, “Epistemic Cooperation: A Quiz-Game Intervention To Reduce Political Polarization”, *Chair: Alex Scacco*
+ - **Sylvia Perry and Allison Skinner**, “A laboratory procedure to facilitate conversations about race within White families in the U.S.”, *Chair: Efren Perez*
+ - **Nejla Asimovic, Ruth Ditlmann, & Cyrus Samii**, “Training Ambassadors for Peace: A Field Experiment on an Intergroup Contact Program in Israel”, *chair: Kimuli Kasara* 
+ - **Evan Lieberman and Allison Harell**, “Does Reporting Racial and Ethnic Disease Burdens Help or Hurt Government Responses?”, *Chair: TBD*
+ - **Salma Mousa**, “Contact in the Classroom: Can Virtual Exchanges Build Tolerance?”, *Chair: TBD*
  
- **IGR 2: October 9, 2020**
-* *Insert Time*
- + David Brookman and Joshua Kalla, “Which narratives durably reduce prejudice? Evidence from field and survey experiments”, Chair: TBD
- + Joel Martinez and Betsy Levy Paluck (psych), “Quantifying shared and idiosyncratic judgments of racism in social discourse”, Chair: Ryan Enos
- + Yang-Yang Zhou and Leah Rosenzweig (poli sci), “Team and Nation: Sports, Nationalism, and Attitudes toward Refugees”, Chair: Rebecca Littman
- + Andrew Thompson (poli sci), “Clear and Present Danger? How Group Threat Shapes Salient Political Opinions and Perceptions”, Chair: TBD
- + Hannah Szekeles (psych), “The Gypsy Labyrinth: The (un)favorable effects of a perspective taking intervention on prejudice towards a highly marginalized outgroup”, Chair: TBD
+ **IGR 2: October 9, 2020**  *Insert Time*
+ - **David Brookman and Joshua Kalla**, “Which narratives durably reduce prejudice? Evidence from field and survey experiments”, *Chair: TBD*
+ - **Joel Martinez and Betsy Levy Paluck**, “Quantifying shared and idiosyncratic judgments of racism in social discourse”, *Chair: Ryan Enos*
+ - **Yang-Yang Zhou and Leah Rosenzweig**, “Team and Nation: Sports, Nationalism, and Attitudes toward Refugees”, *Chair: Rebecca Littman*
+ - **Andrew Thompson**, “Clear and Present Danger? How Group Threat Shapes Salient Political Opinions and Perceptions”, *Chair: TBD*
+ - **Hannah Szekeles**, “The Gypsy Labyrinth: The (un)favorable effects of a perspective taking intervention on prejudice towards a highly marginalized outgroup”, *Chair: TBD*
 
 Workshop Organizers 
  - [Rebecca Littman](http://www.rebeccalittman.com/)
