@@ -25,7 +25,7 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 
 Workshop Organizers 
  - [Rebecca Littman](http://www.rebeccalittman.com/)
- - [Rebecca Littman](http://www.rebeccalittman.com/)
- - [Rebecca Littman](http://www.rebeccalittman.com/)
- - [Rebecca Littman](http://www.rebeccalittman.com/)
+ - [Alexandra Sccaco](https://www.wzb.eu/en/persons/alexandra-scacco)
+ - [Chagai M. Weiss](https://www.chagaimweiss.com/)
+ - [Cara Wong](http://carawong.org/)
 
