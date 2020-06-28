@@ -23,6 +23,22 @@ IGR seeks to bring together an interdisciplinary group of scholars engaged in em
 
 IGR is a “read-ahead” working group, meaning that selected presenters will circulate a research design, pre-analysis plan, or working paper a few weeks before the meeting. All attendees will be expected to read the selected materials in advance, and come prepared with comments. The meeting will be spent discussing each paper and providing feedback to authors  (there will be no presentations to maximize discussion time for each paper).
 
+**IGR 1: August 3, 2020**
+*Insert Time*
+ - [Paper 1](insert link)
+ - [Paper 2](insert link)
+ - [Paper 3](insert link)
+ - [Paper 4](insert link)
+ - [Paper 5](insert link)
+ 
+ **IGR 2: October 9, 2020**
+ *Insert Time*
+ - [Paper 1](insert link)
+ - [Paper 2](insert link)
+ - [Paper 3](insert link)
+ - [Paper 4](insert link)
+ - [Paper 5](insert link)
+
 Workshop Organizers 
  - [Rebecca Littman](http://www.rebeccalittman.com/)
  - [Alexandra Sccaco](https://www.wzb.eu/en/persons/alexandra-scacco)
