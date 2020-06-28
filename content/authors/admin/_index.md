@@ -23,3 +23,9 @@ IGR seeks to bring together an interdisciplinary group of scholars engaged in em
 
 IGR is a “read-ahead” working group, meaning that selected presenters will circulate a research design, pre-analysis plan, or working paper a few weeks before the meeting. All attendees will be expected to read the selected materials in advance, and come prepared with comments. The meeting will be spent discussing each paper and providing feedback to authors  (there will be no presentations to maximize discussion time for each paper).
 
+Workshop Organizers 
+ - [Rebecca Littman](http://www.rebeccalittman.com/)
+ - [Rebecca Littman](http://www.rebeccalittman.com/)
+ - [Rebecca Littman](http://www.rebeccalittman.com/)
+ - [Rebecca Littman](http://www.rebeccalittman.com/)
+
