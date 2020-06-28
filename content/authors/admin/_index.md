@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: IGR 
 
 # Username (this should match the folder name)
 authors:
@@ -70,6 +70,7 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+IGR seeks to bring together an interdisciplinary group of scholars engaged in empirical research on intergroup relations -- including researchers from across subfields in political science and psychology -- to provide detailed, actionable feedback on works in progress. We hope to build a collaborative working group that will meet (virtually) every few months.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+IGR is a “read-ahead” working group, meaning that selected presenters will circulate a research design, pre-analysis plan, or working paper a few weeks before the meeting. All attendees will be expected to read the selected materials in advance, and come prepared with comments. The meeting will be spent discussing each paper and providing feedback to authors  (there will be no presentations to maximize discussion time for each paper).
+
