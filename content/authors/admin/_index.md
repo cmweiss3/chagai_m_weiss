@@ -1,6 +1,6 @@
 ---
 # Display name
-title: IGR 
+title: 
 
 
 
