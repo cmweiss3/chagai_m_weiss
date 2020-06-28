@@ -41,8 +41,8 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
  
 # Workshop Organizers 
 
- - Rebecca Littman [<i class="fas fa-globe-americas"></i>](http://www.rebeccalittman.com/)   [<i class="fas fa-envelope"></i>](mailto:rlittman@uic.edu)
- - Alexandra Sccaco [<i class="fas fa-globe-americas"></i>](https://www.wzb.eu/en/persons/alexandra-scacco)   [<i class="fas fa-envelope"></i>](mailto:alex.scacco@wzb.eu)
- - Chagai M. Weiss [<i class="fas fa-globe-americas"></i>](https://www.chagaimweiss.com/)   [<i class="fas fa-envelope"></i>](mailto:cmweiss3@wisc.edu)
- - Cara Wong [<i class="fas fa-globe-americas"></i>](http://carawong.org/)   [<i class="fas fa-envelope"></i>](mailto:carawong@illinois.edu)
+ - Rebecca Littman [<i class="fas fa-globe-americas"></i>](http://www.rebeccalittman.com/) \_[<i class="fas fa-envelope"></i>](mailto:rlittman@uic.edu)
+ - Alexandra Sccaco [<i class="fas fa-globe-americas"></i>](https://www.wzb.eu/en/persons/alexandra-scacco)  \_ [<i class="fas fa-envelope"></i>](mailto:alex.scacco@wzb.eu)
+ - Chagai M. Weiss [<i class="fas fa-globe-americas"></i>](https://www.chagaimweiss.com/) \_  [<i class="fas fa-envelope"></i>](mailto:cmweiss3@wisc.edu)
+ - Cara Wong [<i class="fas fa-globe-americas"></i>](http://carawong.org/) \_  [<i class="fas fa-envelope"></i>](mailto:carawong@illinois.edu)
 
