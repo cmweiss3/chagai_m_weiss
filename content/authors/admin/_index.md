@@ -18,11 +18,12 @@ title:
 #   Set this to `[]` or comment out if you are not using People widget.
 
 ---
-
+# What is IGR?
 IGR seeks to bring together an interdisciplinary group of scholars engaged in empirical research on intergroup relations -- including researchers from across subfields in political science and psychology -- to provide detailed, actionable feedback on works in progress. We hope to build a collaborative working group that will meet (virtually) every few months.
 
 IGR is a “read-ahead” working group, meaning that selected presenters will circulate a research design, pre-analysis plan, or working paper a few weeks before the meeting. All attendees will be expected to read the selected materials in advance, and come prepared with comments. The meeting will be spent discussing each paper and providing feedback to authors  (there will be no presentations to maximize discussion time for each paper).
 
+# Upcoming Worksops
 **IGR 1: August 3, 2020** *Insert Time*
  - **Evan deFillipis and Josh Greene**, “Epistemic Cooperation: A Quiz-Game Intervention To Reduce Political Polarization”, *Chair: Alex Scacco*
  - **Sylvia Perry and Allison Skinner**, “A laboratory procedure to facilitate conversations about race within White families in the U.S.”, *Chair: Efren Perez*
@@ -36,8 +37,10 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
  - **Yang-Yang Zhou and Leah Rosenzweig**, “Team and Nation: Sports, Nationalism, and Attitudes toward Refugees”, *Chair: Rebecca Littman*
  - **Andrew Thompson**, “Clear and Present Danger? How Group Threat Shapes Salient Political Opinions and Perceptions”, *Chair: TBD*
  - **Hannah Szekeles**, “The Gypsy Labyrinth: The (un)favorable effects of a perspective taking intervention on prejudice towards a highly marginalized outgroup”, *Chair: TBD*
+ 
+ 
+# Workshop Organizers 
 
-Workshop Organizers 
  - [Rebecca Littman](http://www.rebeccalittman.com/)
  - [Alexandra Sccaco](https://www.wzb.eu/en/persons/alexandra-scacco)
  - [Chagai M. Weiss](https://www.chagaimweiss.com/)
