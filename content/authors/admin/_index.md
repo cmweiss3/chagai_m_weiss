@@ -19,7 +19,7 @@ title:
 
 ---
 # What is IGR?
-IGR seeks to bring together an interdisciplinary group of scholars engaged in empirical research on intergroup relations -- including researchers from across subfields in political science and psychology -- to provide detailed, actionable feedback on works in progress. We hope to build a collaborative working group that will meet (virtually) every few months.
+IGR seeks to bring together an interdisciplinary group of scholars engaged in empirical research on intergroup relations -- including researchers from across subfields in political science and psychology -- to provide detailed, actionable feedback on works in progress. 
 
 IGR is a “read-ahead” working group, meaning that selected presenters will circulate a research design, pre-analysis plan, or working paper a few weeks before the meeting. All attendees will be expected to read the selected materials in advance, and come prepared with comments. The meeting will be spent discussing each paper and providing feedback to authors  (there will be no presentations to maximize discussion time for each paper).
 
@@ -41,8 +41,8 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
  
 # Workshop Organizers 
 
- - [Rebecca Littman](http://www.rebeccalittman.com/)
- - [Alexandra Sccaco](https://www.wzb.eu/en/persons/alexandra-scacco)
- - [Chagai M. Weiss](https://www.chagaimweiss.com/)
- - [Cara Wong](http://carawong.org/)
+ - [Rebecca Littman](http://www.rebeccalittman.com/) [<i class="fas fa-envelope"></i>](rlittman@uic.edu)
+ - [Alexandra Sccaco](https://www.wzb.eu/en/persons/alexandra-scacco)[<i class="fas fa-envelope"></i>](alex.scacco@wzb.eu)
+ - [Chagai M. Weiss](https://www.chagaimweiss.com/) [<i class="fas fa-envelope"></i>](cmweiss3@wisc.edu)
+ - [Cara Wong](http://carawong.org/) [<i class="fas fa-envelope"></i>](carawong@illinois.edu)
 
