@@ -47,9 +47,9 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 ##  **IGR 2: October 9, 2020** 
 * **David Brookman and Joshua Kalla**, “Which narratives durably reduce prejudice? Evidence from field and survey experiments”, *Chair: TBD*
 * **Joel Martinez and Betsy Levy Paluck**, “Quantifying shared and idiosyncratic judgments of racism in social discourse”, *Chair: Ryan Enos*
-* **Yang-Yang Zhou and Leah Rosenzweig**, “Team and Nation: Sports, Nationalism, and Attitudes toward Refugees”, *Chair: Rebecca Littman*
+* **Yang-Yang Zhou and Leah Rosenzweig**, “Team and Nation: Sports, Nationalism, and Attitudes toward Refugees”, *Chair: TBD*
 * **Andrew Thompson**, “Clear and Present Danger? How Group Threat Shapes Salient Political Opinions and Perceptions”, *Chair: TBD*
-* **Hannah Szekeles**, “The Gypsy Labyrinth: The (un)favorable effects of a perspective taking intervention on prejudice towards a highly marginalized outgroup”, *Chair: TBD*
+* **Hannah Szekeles**, “The Gypsy Labyrinth: The (un)favorable effects of a perspective taking intervention on prejudice towards a highly marginalized outgroup”, *Chair: Claire Adida*
  
  
 # Workshop Organizers 
