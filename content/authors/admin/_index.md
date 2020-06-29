@@ -41,7 +41,7 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 
 # Future Workshops
  
-##  **IGR 2: October 9, 2020**  *Insert Time*
+##  **IGR 2: October 9, 2020** 
 * **David Brookman and Joshua Kalla**, “Which narratives durably reduce prejudice? Evidence from field and survey experiments”, *Chair: TBD*
 * **Joel Martinez and Betsy Levy Paluck**, “Quantifying shared and idiosyncratic judgments of racism in social discourse”, *Chair: Ryan Enos*
 * **Yang-Yang Zhou and Leah Rosenzweig**, “Team and Nation: Sports, Nationalism, and Attitudes toward Refugees”, *Chair: Rebecca Littman*
