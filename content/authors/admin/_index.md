@@ -26,7 +26,7 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 
 # Upcoming Workshop
 
-## **IGR 1: August 3, 2020** (*10:00-03:15 EST*) [RSVP HERE](https://uwmadison.co1.qualtrics.com/jfe/form/SV_8AhsPZZSVMSEeu9)
+## **IGR 1: August 3, 2020** (*10:00-03:15 EST*) [RSVP Here!](https://uwmadison.co1.qualtrics.com/jfe/form/SV_8AhsPZZSVMSEeu9)
 
 * **Welcome and Ground Rules (Chagai Weiss): 10-10:15 am (EST)**
 * **Virtual Intergroup Contact: 10:15 - 11:45 am (EST)**
