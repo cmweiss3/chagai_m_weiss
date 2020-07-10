@@ -49,7 +49,7 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 * **Joel Martinez and Betsy Levy Paluck**, “Quantifying shared and idiosyncratic judgments of racism in social discourse”, *Chair: Ryan Enos*
 * **Leah Rosenzweig and Yang-Yang Zhou**, “Team and Nation: Sports, Nationalism, and Attitudes toward Refugees”, *Chair: Ruth Ditlmann*
 * **Andrew Thompson**, “Clear and Present Danger? How Group Threat Shapes Salient Political Opinions and Perceptions”, *Chair: TBD*
-* **Hannah Szekeres**, “The Gypsy Labyrinth: The (un)favorable effects of a perspective taking intervention on prejudice towards a highly marginalized outgroup”, *Chair: Claire Adida*
+* **Hanna Szekeres**, “The Gypsy Labyrinth: The (un)favorable effects of a perspective taking intervention on prejudice towards a highly marginalized outgroup”, *Chair: Claire Adida*
  
  
 # Workshop Organizers 
