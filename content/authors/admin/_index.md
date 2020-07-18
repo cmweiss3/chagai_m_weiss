@@ -34,7 +34,7 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
   + **Salma Mousa**, “Contact in the Classroom: Can Virtual Exchanges Build Tolerance?”, *Chair: Rebecca Littman*
 * **Break: 11:45 am-12:00 pm (EST)**
 * **Research Design Session: 12:00 - 12:45 pm (EST)**
-  + **Evan Lieberman and Allison Harell**, “Does Reporting Racial and Ethnic Disease Burdens Help or Hurt Government Responses?”, *Chair: TBD*
+  + **Allison Harell and Evan Lieberman**, “Does Reporting Racial and Ethnic Disease Burdens Help or Hurt Government Responses?”, *Chair: TBD*
 * **Break: 12:45 - 1:15 pm (EST)**
 * **Session 3: 1:15 - 2:45 pm**
   + **Sylvia Perry and Allison Skinner**, “A laboratory procedure to facilitate conversations about race within White families in the U.S.”, *Chair: Efren Perez*
