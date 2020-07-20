@@ -38,7 +38,7 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 * **Break: 12:45 - 1:15 pm (EST)**
 * **Session 3: 1:15 - 2:45 pm**
   + **Sylvia Perry, Allison Skinner, Jamie Abaied, James Wages, and Adilene Osnaya**, “[A laboratory procedure to facilitate conversations about race within White families in the U.S.](https://www.dropbox.com/s/36qu7vbnkoilsq5/Working%20Paper%20for%20IGR1--A%20laboratory%20procedure%20to%20facilitate%20conversations%20about%20race%20within%20White%20families%20in%20the%20U.S..pdf?dl=0)”, *Chair: Efren Perez*
-  + **Nejla Asimovic, Ruth Ditlmann, & Cyrus Samii**, “[Training Ambassadors for Peace: A Field Experiment on an Intergroup Contact Program in Israel](https://www.dropbox.com/s/3yw8fhh8oy7taq2/Ditlmann-Asimovic-Samii-2020.pdf?dl=0)”, *Chair: Kimuli Kasara* 
+  + **Ruth Ditlmann, Nejla Asimovic, & Cyrus Samii**, “[Training Ambassadors for Peace: A Field Experiment on an Intergroup Contact Program in Israel](https://www.dropbox.com/s/3yw8fhh8oy7taq2/Ditlmann-Asimovic-Samii-2020.pdf?dl=0)”, *Chair: Kimuli Kasara* 
 * **Future of IGR discussion (Cara Wong): 2:45-3:15 pm (EST)**
 
 
