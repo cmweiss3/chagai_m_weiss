@@ -30,8 +30,8 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 
 * **Welcome and Ground Rules (Chagai Weiss): 10-10:15 am (EST)**
 * **Virtual Intergroup Contact: 10:15 - 11:45 am (EST)**
-  + **Evan deFillipis and Josh Greene**, “[Epistemic Cooperation: A Quiz-Game Intervention To Reduce Political Polarization](https://www.dropbox.com/s/g6ahslvvw969iuf/Epistemic%20Cooperation_%20A%20Quiz-Game%20Intervention%20For%20Reducing%20Political%20Animosity.pdf?dl=0)”, *Chair: Alex Scacco*
   + **Salma Mousa**, “[Contact in the Classroom: Can Virtual Exchanges Build Tolerance?](https://www.dropbox.com/s/0xzyfeerxbvfh2a/mousa-virtual-contact-revised.pdf?dl=0)”, *Chair: Rebecca Littman*
+  + **Evan deFillipis and Josh Greene**, “[Epistemic Cooperation: A Quiz-Game Intervention To Reduce Political Polarization](https://www.dropbox.com/s/g6ahslvvw969iuf/Epistemic%20Cooperation_%20A%20Quiz-Game%20Intervention%20For%20Reducing%20Political%20Animosity.pdf?dl=0)”, *Chair: Alex Scacco*
 * **Break: 11:45 am-12:00 pm (EST)**
 * **Research Design Session: 12:00 - 12:45 pm (EST)**
   + **Allison Harell and Evan Lieberman**, “[Does Reporting Racial and Ethnic Disease Burdens Help or Hurt Government Responses?](https://www.dropbox.com/s/gqkckwqrd70uujn/Lieberman%20and%20Harell_PAP.pdf?dl=0)”, *Chair: Chadly Stern*
