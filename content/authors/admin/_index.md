@@ -21,7 +21,7 @@ title:
 # What is IGR?
 IGR seeks to bring together an interdisciplinary group of scholars engaged in empirical research on intergroup relations -- including researchers from across subfields in political science and psychology -- to provide detailed, actionable feedback on works in progress. 
 
-IGR is a “read-ahead” working group, meaning that selected presenters will circulate a research design, pre-analysis plan, or working paper a few weeks before the meeting. All attendees will be expected to read the selected materials in advance, and come prepared with comments. The meeting will be spent discussing each paper and providing feedback to authors. Please feel free to reach out to IGR organizers if you are interested in joining our mailing list. 
+IGR is a “read-ahead” working group, meaning that selected presenters will circulate a research design, pre-analysis plan, or working paper a few weeks before the meeting. All attendees will be expected to read the selected materials in advance, and come prepared with comments. The meeting will be spent discussing each paper and providing feedback to authors. Please feel free to fill out this [sign up survey](https://uwmadison.co1.qualtrics.com/jfe/form/SV_cZtLjuTyRePJWEl), or reach out to IGR organizers if you are interested in joining our mailing list.
 
 
 # Upcoming Workshop
