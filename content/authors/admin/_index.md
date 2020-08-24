@@ -26,7 +26,30 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 
 # Upcoming Workshop
 
-## **IGR 1: August 3, 2020** (*10:00-03:15 EST*) [RSVP Here!](https://uwmadison.co1.qualtrics.com/jfe/form/SV_8AhsPZZSVMSEeu9)
+##  **IGR 2: October 9, 2020** 
+
+* **Joel Martinez and Betsy Levy Paluck**, “Quantifying shared and idiosyncratic judgments of racism in social discourse”, *Chair: Chagai Weiss*
+* **Leah Rosenzweig and Yang-Yang Zhou**, “Team and Nation: Sports, Nationalism, and Attitudes toward Refugees”, *Chair: Ruth Ditlmann*
+
+
+# Future Workshops
+ 
+##  **IGR 3: November 13, 2020** 
+* **David Broockman and Joshua Kalla**, “Which narratives durably reduce prejudice? Evidence from field and survey experiments”, *Chair: Linda Tropp*
+* **Hanna Szekeres**, “The Gypsy Labyrinth: The (un)favorable effects of a perspective taking intervention on prejudice towards a highly marginalized outgroup”, *Chair: Claire Adida*
+
+ 
+##  **IGR 4: December 4, 2020** 
+* **Andrew Thompson**, “Clear and Present Danger? How Group Threat Shapes Salient Political Opinions and Perceptions”, *Chair: TBD*
+* **Chadly Stern**, “Examining Ideological Differences in Confidence of Social Category Judgments”, *Chair: Ryan Enos*
+
+ 
+ 
+ 
+# Previous Workshops
+ 
+
+## **IGR 1: August 3, 2020** (*10:00-03:15 EST*) 
 
 * **Welcome and Ground Rules (Chagai Weiss): 10-10:15 am (EST)**
 * **Virtual Intergroup Contact: 10:15 - 11:45 am (EST)**
@@ -41,15 +64,6 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
   + **Ruth Ditlmann, Nejla Asimovic, & Cyrus Samii**, “[Training Ambassadors for Peace: A Field Experiment on an Intergroup Contact Program in Israel](https://www.dropbox.com/s/3yw8fhh8oy7taq2/Ditlmann-Asimovic-Samii-2020.pdf?dl=0)”, *Chair: Kimuli Kasara* 
 * **Future of IGR discussion (Cara Wong): 2:45-3:15 pm (EST)**
 
-
-# Future Workshops
- 
-##  **IGR 2: October 9, 2020** 
-* **David Broockman and Joshua Kalla**, “Which narratives durably reduce prejudice? Evidence from field and survey experiments”, *Chair: Linda Tropp*
-* **Joel Martinez and Betsy Levy Paluck**, “Quantifying shared and idiosyncratic judgments of racism in social discourse”, *Chair: Ryan Enos*
-* **Leah Rosenzweig and Yang-Yang Zhou**, “Team and Nation: Sports, Nationalism, and Attitudes toward Refugees”, *Chair: Ruth Ditlmann*
-* **Andrew Thompson**, “Clear and Present Danger? How Group Threat Shapes Salient Political Opinions and Perceptions”, *Chair: TBD*
-* **Hanna Szekeres**, “The Gypsy Labyrinth: The (un)favorable effects of a perspective taking intervention on prejudice towards a highly marginalized outgroup”, *Chair: Claire Adida*
  
  
 # Workshop Organizers 
