@@ -26,7 +26,7 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 
 # Upcoming Workshop
 
-##  **IGR 2: October 9, 2020** 
+##  **IGR 2: October 9, 2020** (*11:00am-01:00pm EST*)
 
 * **Joel Martinez and Betsy Levy Paluck**, “Quantifying shared and idiosyncratic judgments of racism in social discourse”, *Chair: Chagai Weiss*
 * **Leah Rosenzweig and Yang-Yang Zhou**, “Team and Nation: Sports, Nationalism, and Attitudes toward Refugees”, *Chair: Ruth Ditlmann*
