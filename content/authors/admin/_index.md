@@ -34,12 +34,12 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 
 # Future Workshops
  
-##  **IGR 3: November 13, 2020** 
+##  **IGR 3: November 13, 2020** (*11:00am-01:00pm EST*)
 * **David Broockman and Joshua Kalla**, “Which narratives durably reduce prejudice? Evidence from field and survey experiments”, *Chair: Linda Tropp*
 * **Hanna Szekeres**, “The Gypsy Labyrinth: The (un)favorable effects of a perspective taking intervention on prejudice towards a highly marginalized outgroup”, *Chair: Claire Adida*
 
  
-##  **IGR 4: December 4, 2020** 
+##  **IGR 4: December 4, 2020** (*11:00am-01:00pm EST*)
 * **Andrew Thompson**, “Clear and Present Danger? How Group Threat Shapes Salient Political Opinions and Perceptions”, *Chair: TBD*
 * **Chadly Stern**, “Examining Ideological Differences in Confidence of Social Category Judgments”, *Chair: Ryan Enos*
 
