@@ -27,7 +27,7 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 # Upcoming Workshop
 
 ##  **IGR 3: November 13, 2020** (*11:00am-01:00pm EST*)
-* **David Broockman and Joshua Kalla**, “Which narratives durably reduce prejudice? Evidence from field and survey experiments”, *Chair: Linda Tropp*
+* **David Broockman and Joshua Kalla**, “[Which narratives durably reduce prejudice? Evidence from field and survey experiments](https://www.dropbox.com/s/h7fl2nlj9g5r7hb/kalla_broockman_which_narratives.pdf?dl=0)”, *Chair: Linda Tropp*
 * **Hanna Szekeres**, “The Gypsy Labyrinth: The (un)favorable effects of a perspective taking intervention on prejudice towards a highly marginalized outgroup”, *Chair: Claire Adida*
 
 
