@@ -28,7 +28,7 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 
 ##  **IGR 3: November 13, 2020** (*11:00am-01:00pm EST*)
 * **David Broockman and Joshua Kalla**, “[Which narratives durably reduce prejudice? Evidence from field and survey experiments](https://www.dropbox.com/s/h7fl2nlj9g5r7hb/kalla_broockman_which_narratives.pdf?dl=0)”, *Chair: Linda Tropp*
-* **Hanna Szekeres**, “The Gypsy Labyrinth: The (un)favorable effects of a perspective taking intervention on prejudice towards a highly marginalized outgroup”, *Chair: Claire Adida*
+* **Julia Spielmann, Siqi Feng, Daniel A. Briley, and Chadly Stern**, “[Mental Health Contributors Among Transgender People in a Non-WEIRD Society](https://www.dropbox.com/s/x34m69w5xb07exx/Stern_et_al_main.pdf?dl=0)” [Appendix](https://www.dropbox.com/s/2pw1cl8gpd4wad8/stern_et_al_sup.pdf?dl=0), *Chair: Claire Adida*
 
 
 # Future Workshops
