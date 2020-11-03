@@ -36,7 +36,7 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
  
 ##  **IGR 4: December 4, 2020** (*11:00am-01:00pm EST*)
 * **Andrew Thompson**, “Clear and Present Danger? How Group Threat Shapes Salient Political Opinions and Perceptions”, *Chair: TBD*
-* **Chadly Stern**, “Examining Ideological Differences in Confidence of Social Category Judgments”, *Chair: Ryan Enos*
+* **Hannah Szekeres**, “The Gypsy Labyrinth: The (un)Favorable Effects of a Perspective Taking Intervention on Prejudice towards a Highly Marginalized Outgroup”, *Chair: Ryan Enos*
 
  
  
