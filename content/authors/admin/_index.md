@@ -25,24 +25,25 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 
 
 # Upcoming Workshop
-
-##  **IGR 3: November 13, 2020** (*11:00am-01:00pm EST*)
-* **David Broockman and Joshua Kalla**, “[Which narratives durably reduce prejudice? Evidence from field and survey experiments](https://www.dropbox.com/s/h7fl2nlj9g5r7hb/kalla_broockman_which_narratives.pdf?dl=0)”, *Chair: Linda Tropp*
-* **Julia Spielmann, Siqi Feng, Daniel A. Briley, and Chadly Stern**, “[Mental Health Contributors Among Transgender People in a Non-WEIRD Society](https://www.dropbox.com/s/x34m69w5xb07exx/Stern_et_al_main.pdf?dl=0)” [Appendix](https://www.dropbox.com/s/2pw1cl8gpd4wad8/stern_et_al_sup.pdf?dl=0), *Chair: Claire Adida*
+##  **IGR 4: December 4, 2020** (*11:00am-01:00pm EST*)
+* **Andrew Thompson**, “[Clear and Present Danger? How Group Threat Shapes Salient Political Opinions and Perceptions](https://www.dropbox.com/s/stzwq8g6v3i611p/thompson_cpd_intergroup_relations.pdf?dl=0)”, *Chair: TBD*
+* **Hannah Szekeres**, “The Gypsy Labyrinth: The (un)Favorable Effects of a Perspective Taking Intervention on Prejudice towards a Highly Marginalized Outgroup”, *Chair: Ryan Enos*
 
 
 # Future Workshops
+
+Stay tuned for an upcoming call for paper for IGR sessions in the Spring semester.
  
- 
-##  **IGR 4: December 4, 2020** (*11:00am-01:00pm EST*)
-* **Andrew Thompson**, “Clear and Present Danger? How Group Threat Shapes Salient Political Opinions and Perceptions”, *Chair: TBD*
-* **Hannah Szekeres**, “The Gypsy Labyrinth: The (un)Favorable Effects of a Perspective Taking Intervention on Prejudice towards a Highly Marginalized Outgroup”, *Chair: Ryan Enos*
 
  
  
  
 # Previous Workshops
  
+##  **IGR 3: November 13, 2020** (*11:00am-01:00pm EST*)
+* **David Broockman and Joshua Kalla**, “[Which narratives durably reduce prejudice? Evidence from field and survey experiments](https://www.dropbox.com/s/h7fl2nlj9g5r7hb/kalla_broockman_which_narratives.pdf?dl=0)”, *Chair: Linda Tropp*
+* **Julia Spielmann, Siqi Feng, Daniel A. Briley, and Chadly Stern**, “[Mental Health Contributors Among Transgender People in a Non-WEIRD Society](https://www.dropbox.com/s/x34m69w5xb07exx/Stern_et_al_main.pdf?dl=0)” [Appendix](https://www.dropbox.com/s/2pw1cl8gpd4wad8/stern_et_al_sup.pdf?dl=0), *Chair: Claire Adida*
+
 
 ##  **IGR 2: October 9, 2020** (*11:00am-01:00pm EST*)
 
