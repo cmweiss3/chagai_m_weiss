@@ -26,8 +26,9 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 
 # Upcoming Workshop
 ##  **IGR 4: December 4, 2020** (*11:00am-01:00pm EST*)
+* **Rebecca Littman, Graeme Blair, Rebecca Wolfe, Mohammed Bukar, Jiyoung Kim, Fatima Yetcha Ajimi Badu, Yunusa Aino, Fatima Kurama, Ahmed Bulama**, “Conciliatory Gestures Increase Willingness to Reconcile with Members of Violent Extremist Groups”, *Chair: Ryan Enos*
 * **Andrew Thompson**, “[Clear and Present Danger? How Group Threat Shapes Salient Political Opinions and Perceptions](https://www.dropbox.com/s/stzwq8g6v3i611p/thompson_cpd_intergroup_relations.pdf?dl=0)”, *Chair: TBD*
-* **Hannah Szekeres**, “The Gypsy Labyrinth: The (un)Favorable Effects of a Perspective Taking Intervention on Prejudice towards a Highly Marginalized Outgroup”, *Chair: Ryan Enos*
+
 
 
 # Future Workshops
