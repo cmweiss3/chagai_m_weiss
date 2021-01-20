@@ -25,7 +25,7 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 
 
 # Upcoming Workshop
-##  **IGR 4** (*Date TBD*)
+##  **IGR 4** (*February 19, 11:00am-01:00pm EST*)
 * **Andrew Thompson**, “[Clear and Present Danger? How Group Threat Shapes Salient Political Opinions and Perceptions](https://www.dropbox.com/s/stzwq8g6v3i611p/thompson_cpd_intergroup_relations.pdf?dl=0)”
 * **Mina Cikara**, “[Hate Crime Increases with Minoritized Rank](https://osf.io/2z3kw/)”
 
@@ -33,8 +33,9 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 
 # Future Workshops
 
-Stay tuned for an upcoming call for paper for IGR sessions in the Spring semester.
- 
+##  **IGR 5** (*March 19, 11:00am-01:00pm EST*)
+* **Hannah Szekeres**, “The Gypsy Labyrinth: The (un)favorable effects of a perspective taking intervention on prejudice towards a highly marginalized outgroup”
+* **James Druckman and Elizabeth Sharrow**, “How Inter-Group Contact Can Change Policy Views”
 
  
  
