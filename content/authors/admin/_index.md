@@ -37,7 +37,19 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 * **Hannah Szekeres**, “The Gypsy Labyrinth: The (un)favorable effects of a perspective taking intervention on prejudice towards a highly marginalized outgroup”
 * **James Druckman and Elizabeth Sharrow**, “How Inter-Group Contact Can Change Policy Views”
 
- 
+##  **IGR 6** (*April 23, 11:00am-01:00pm EST*)
+* **Biz Herman**, “Responses to Trauma: the Consequences of Conflict and Forced Migration on Social Stability”
+* **Amanda Robinson**, “The Political Implications of Ethnic Visibility”
+
+##  **IGR 7** (*May 21, 11:00am-01:00pm EST*)
+* **Alex Scacco and Rebecca Littman**, “Reducing Inter-religious Antipathy in Nigeria through Media Interventions”
+* **Omar Garcia Ponce**, “The Paradox of Migration: Assessing Mexican Beliefs about the Inmigrante”
+
+
+##  **IGR 8** (*May 21, 11:00am-01:00pm EST*)
+* **Cleo O'Brien-Udry**, “Aid, Blame, and Backlash: The Political Economy of Unpopular Aid”
+* **Calvin Lai**, TBD
+
  
  
 # Previous Workshops
