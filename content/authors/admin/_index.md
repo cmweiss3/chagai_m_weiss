@@ -46,9 +46,20 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 * **Omar Garcia Ponce**, “The Paradox of Migration: Assessing Mexican Beliefs about the Inmigrante”
 
 
-##  **IGR 8** (*May 21, 11:00am-01:00pm EST*)
+##  **IGR 8** (*June 25, 11:00am-01:00pm EST*)
 * **Cleo O'Brien-Udry**, “Aid, Blame, and Backlash: The Political Economy of Unpopular Aid”
 * **Calvin Lai**, TBD
+
+ 
+
+
+# Workshop Organizers 
+
+ - [Rebecca Littman](http://www.rebeccalittman.com/) - [<i class="fas fa-envelope"></i>](mailto:rlittman@uic.edu)
+ - [Alexandra Scacco](https://www.wzb.eu/en/persons/alexandra-scacco) - [<i class="fas fa-envelope"></i>](mailto:alex.scacco@wzb.eu)
+ - [Chagai M. Weiss](https://www.chagaimweiss.com/) - [<i class="fas fa-envelope"></i>](mailto:cmweiss3@wisc.edu)
+ - [Cara Wong](http://carawong.org/) - [<i class="fas fa-envelope"></i>](mailto:carawong@illinois.edu)
+
 
  
  
@@ -81,12 +92,4 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
   + **Ruth Ditlmann, Nejla Asimovic, & Cyrus Samii**, “[Training Ambassadors for Peace: A Field Experiment on an Intergroup Contact Program in Israel](https://www.dropbox.com/s/3yw8fhh8oy7taq2/Ditlmann-Asimovic-Samii-2020.pdf?dl=0)”, *Chair: Kimuli Kasara* 
 * **Future of IGR discussion (Cara Wong): 2:45-3:15 pm (EST)**
 
- 
- 
-# Workshop Organizers 
-
- - [Rebecca Littman](http://www.rebeccalittman.com/) - [<i class="fas fa-envelope"></i>](mailto:rlittman@uic.edu)
- - [Alexandra Scacco](https://www.wzb.eu/en/persons/alexandra-scacco) - [<i class="fas fa-envelope"></i>](mailto:alex.scacco@wzb.eu)
- - [Chagai M. Weiss](https://www.chagaimweiss.com/) - [<i class="fas fa-envelope"></i>](mailto:cmweiss3@wisc.edu)
- - [Cara Wong](http://carawong.org/) - [<i class="fas fa-envelope"></i>](mailto:carawong@illinois.edu)
 
