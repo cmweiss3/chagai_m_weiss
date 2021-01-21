@@ -34,7 +34,7 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 # Future Workshops
 
 ##  **IGR 5** (*March 19, 11:00am-01:00pm EST*)
-* **Hannah Szekeres**, “The Gypsy Labyrinth: The (un)favorable effects of a perspective taking intervention on prejudice towards a highly marginalized outgroup”
+* **Hanna Szekeres**, “The Gypsy Labyrinth: The (un)favorable effects of a perspective taking intervention on prejudice towards a highly marginalized outgroup”
 * **James Druckman and Elizabeth Sharrow**, “How Inter-Group Contact Can Change Policy Views”
 
 ##  **IGR 6** (*April 23, 11:00am-01:00pm EST*)
