@@ -42,7 +42,7 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 * **Amanda Robinson**, “The Political Implications of Ethnic Visibility”
 
 ##  **IGR 7** (*May 21, 11:00am-01:00pm EST*)
-* **Alex Scacco and Rebecca Littman**, “Reducing Inter-religious Antipathy in Nigeria through Media Interventions”
+* **Rebecca Littman and Alex Scacco**, “Reducing Inter-religious Antipathy in Nigeria through Media Interventions”
 * **Omar Garcia Ponce**, “The Paradox of Migration: Assessing Mexican Beliefs about the Inmigrante”
 
 
