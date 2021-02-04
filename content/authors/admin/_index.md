@@ -26,7 +26,7 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 
 # Upcoming Workshop
 ##  **IGR 4** (*February 19, 11:00am-01:00pm EST*) [RSVP Here](https://uwmadison.co1.qualtrics.com/jfe/form/SV_eJcD2YpoL6ueEgm)
-* **Andrew Thompson**, “Clear and Present Danger? How Group Threat Shapes Salient Political Opinions and Perceptions”
+* **Andrew Thompson**, “[Clear and Present Danger? How Group Threat Shapes Salient Political Opinions and Perceptions](https://www.dropbox.com/s/eo13jinir3millb/thompson_cpd--2-1-2021.pdf?dl=0)”
 * **Mina Cikara, Vasiliki Fouka, and Marco Tabellini**, “[Hate Crime Increases with Minoritized Rank](https://osf.io/2z3kw/)”
 
 
