@@ -25,17 +25,12 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 
 
 # Upcoming Workshop
-##  **IGR 4** (*February 19, 11:00am-01:00pm EST*) [RSVP Here](https://uwmadison.co1.qualtrics.com/jfe/form/SV_eJcD2YpoL6ueEgm)
-* **Andrew Thompson**, “[Clear and Present Danger? How Group Threat Shapes Salient Political Opinions and Perceptions](https://www.dropbox.com/s/eo13jinir3millb/thompson_cpd--2-1-2021.pdf?dl=0)”
-* **Mina Cikara, Vasiliki Fouka, and Marco Tabellini**, “[Hate Crime Increases with Minoritized Rank](https://osf.io/2z3kw/)”
-
-
+##  **IGR 5** (*March 19, 11:00am-01:00pm EST*)
+* **Hanna Szekeres**, “[The Interplay of Perspective Taking Ability and Perspective Taking Intervention on Prejudice Reduction](https://www.dropbox.com/s/oifxjp2x6jkdqkw/Szekeres.pdf?dl=0)”
+* **James Druckman and Elizabeth Sharrow**, “[How Inter-Group Contact Can Change Policy Views](https://www.dropbox.com/s/bgc7k9uc1rka9yh/Drcukman.pdf?dl=0)”
 
 # Future Workshops
 
-##  **IGR 5** (*March 19, 11:00am-01:00pm EST*)
-* **Hanna Szekeres**, “The Gypsy Labyrinth: The (un)favorable effects of a perspective taking intervention on prejudice towards a highly marginalized outgroup”
-* **James Druckman and Elizabeth Sharrow**, “How Inter-Group Contact Can Change Policy Views”
 
 ##  **IGR 6** (*April 23, 11:00am-01:00pm EST*)
 * **Biz Herman**, “Responses to Trauma: the Consequences of Conflict and Forced Migration on Social Stability”
@@ -64,6 +59,10 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
  
  
 # Previous Workshops
+
+##  **IGR 4** (*February 19, 11:00am-01:00pm EST*) [RSVP Here](https://uwmadison.co1.qualtrics.com/jfe/form/SV_eJcD2YpoL6ueEgm)
+* **Andrew Thompson**, “[Clear and Present Danger? How Group Threat Shapes Salient Political Opinions and Perceptions](https://www.dropbox.com/s/eo13jinir3millb/thompson_cpd--2-1-2021.pdf?dl=0)”
+* **Mina Cikara, Vasiliki Fouka, and Marco Tabellini**, “[Hate Crime Increases with Minoritized Rank](https://osf.io/2z3kw/)”
  
 ##  **IGR 3: November 13, 2020** (*11:00am-01:00pm EST*)
 * **David Broockman and Joshua Kalla**, “[Which narratives durably reduce prejudice? Evidence from field and survey experiments](https://www.dropbox.com/s/h7fl2nlj9g5r7hb/kalla_broockman_which_narratives.pdf?dl=0)”, *Chair: Linda Tropp*
