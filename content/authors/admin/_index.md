@@ -25,16 +25,13 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 
 
 # Upcoming Workshop
-##  **IGR 5** (*March 19, 11:00am-01:00pm EST*)
-* **Hanna Szekeres**, “[The Interplay of Perspective Taking Ability and Perspective Taking Intervention on Prejudice Reduction](https://www.dropbox.com/s/oifxjp2x6jkdqkw/Szekeres.pdf?dl=0)”
-* **James Druckman and Elizabeth Sharrow**, “[How Inter-Group Contact Can Change Policy Views](https://www.dropbox.com/s/bgc7k9uc1rka9yh/Drcukman.pdf?dl=0)”
-
-# Future Workshops
-
 
 ##  **IGR 6** (*April 23, 11:00am-01:00pm EST*)
 * **Biz Herman**, “Responses to Trauma: the Consequences of Conflict and Forced Migration on Social Stability”
-* **Amanda Robinson**, “The Political Implications of Ethnic Visibility”
+* **Amanda Robinson**, “[The Political Implications of Ethnic Visibility](https://www.dropbox.com/s/vacnex8r5a3gf9f/Robinson_IGR.pdf?dl=0)”
+
+
+# Future Workshops
 
 ##  **IGR 7** (*May 21, 11:00am-01:00pm EST*)
 * **Rebecca Littman and Alex Scacco**, “Reducing Inter-religious Antipathy in Nigeria through Media Interventions”
@@ -59,6 +56,10 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
  
  
 # Previous Workshops
+
+##  **IGR 5** (*March 19, 11:00am-01:00pm EST*)
+* **Hanna Szekeres**, “[The Interplay of Perspective Taking Ability and Perspective Taking Intervention on Prejudice Reduction](https://www.dropbox.com/s/oifxjp2x6jkdqkw/Szekeres.pdf?dl=0)”
+* **James Druckman and Elizabeth Sharrow**, “[How Inter-Group Contact Can Change Policy Views](https://www.dropbox.com/s/bgc7k9uc1rka9yh/Drcukman.pdf?dl=0)”
 
 ##  **IGR 4** (*February 19, 11:00am-01:00pm EST*) [RSVP Here](https://uwmadison.co1.qualtrics.com/jfe/form/SV_eJcD2YpoL6ueEgm)
 * **Andrew Thompson**, “[Clear and Present Danger? How Group Threat Shapes Salient Political Opinions and Perceptions](https://www.dropbox.com/s/eo13jinir3millb/thompson_cpd--2-1-2021.pdf?dl=0)”
