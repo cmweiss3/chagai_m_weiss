@@ -27,7 +27,7 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 # Upcoming Workshop
 
 ##  **IGR 6** (*April 23, 11:00am-01:00pm EST*)
-* **Biz Herman**, “[Responses to Trauma: the Consequences of Conflict and Forced Migration on Social Stability](https://www.dropbox.com/s/lpd2cs636a09rft/Herman_TraumaMigration.pdf?dl=0)”
+* **Biz Herman**, “[Responses to Trauma: the Consequences of Conflict and Forced Migration on Social Stability](https://www.dropbox.com/s/zr03p4hexhb325q/Herman_TraumaMigration_0413.pdf?dl=0)”
 * **Amanda Robinson**, “[The Political Implications of Ethnic Visibility](https://www.dropbox.com/s/vacnex8r5a3gf9f/Robinson_IGR.pdf?dl=0)”
 
 
