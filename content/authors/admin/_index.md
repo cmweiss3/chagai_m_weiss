@@ -26,17 +26,13 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 
 # Upcoming Workshop
 
-##  **IGR 6** (*April 23, 11:00am-01:00pm EST*)
-* **Biz Herman**, “[Responses to Trauma: the Consequences of Conflict and Forced Migration on Social Stability](https://www.dropbox.com/s/zr03p4hexhb325q/Herman_TraumaMigration_0413.pdf?dl=0)”
-* **Amanda Robinson**, “[The Political Implications of Ethnic Visibility](https://www.dropbox.com/s/vacnex8r5a3gf9f/Robinson_IGR.pdf?dl=0)”
+##  **IGR 7** (*May 21, 11:00am-01:00pm EST*)
+* **Rebecca Littman, Alexandra Scacco and coauthors**, “[Reducing Intergroup Animosity in Nigeria through Entertainment Education Interventions](https://www.dropbox.com/s/hy9204ze8igj3t5/IGR%20DRAFT%20-%20Nigeria%20Entertainment%20Education%20%26%20Intergroup%20Relations.pdf?dl=0)”
+* **Omar Garcia Ponce**, “The Paradox of Migration: Assessing Mexican Beliefs about the Inmigrante”
+
 
 
 # Future Workshops
-
-##  **IGR 7** (*May 21, 11:00am-01:00pm EST*)
-* **Rebecca Littman and Alex Scacco**, “Reducing Inter-religious Antipathy in Nigeria through Media Interventions”
-* **Omar Garcia Ponce**, “The Paradox of Migration: Assessing Mexican Beliefs about the Inmigrante”
-
 
 ##  **IGR 8** (*June 25, 11:00am-01:00pm EST*)
 * **Cleo O'Brien-Udry**, “Aid, Blame, and Backlash: The Political Economy of Unpopular Aid”
@@ -56,6 +52,11 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
  
  
 # Previous Workshops
+
+##  **IGR 6** (*April 23, 11:00am-01:00pm EST*)
+* **Biz Herman**, “[Responses to Trauma: the Consequences of Conflict and Forced Migration on Social Stability](https://www.dropbox.com/s/zr03p4hexhb325q/Herman_TraumaMigration_0413.pdf?dl=0)”
+* **Amanda Robinson**, “[The Political Implications of Ethnic Visibility](https://www.dropbox.com/s/vacnex8r5a3gf9f/Robinson_IGR.pdf?dl=0)”
+
 
 ##  **IGR 5** (*March 19, 11:00am-01:00pm EST*)
 * **Hanna Szekeres**, “[The Interplay of Perspective Taking Ability and Perspective Taking Intervention on Prejudice Reduction](https://www.dropbox.com/s/oifxjp2x6jkdqkw/Szekeres.pdf?dl=0)”
