@@ -28,7 +28,7 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 
 ##  **IGR 7** (*May 21, 11:00am-01:00pm EST*)
 * **Rebecca Littman, Alexandra Scacco and coauthors**, “[Reducing Intergroup Animosity in Nigeria through Entertainment Education Interventions](https://www.dropbox.com/s/hy9204ze8igj3t5/IGR%20DRAFT%20-%20Nigeria%20Entertainment%20Education%20%26%20Intergroup%20Relations.pdf?dl=0)”
-* **Omar Garcia Ponce**, “The Paradox of Migration: Assessing Mexican Beliefs about the Inmigrante”
+* **Omar Garcia Ponce**, “[The Paradox of Migration: Assessing Mexican Beliefs about the Inmigrante](https://www.dropbox.com/s/86ak3qzy9ekcpy5/Migrants_Project.pdf?dl=0)”
 
 
 
