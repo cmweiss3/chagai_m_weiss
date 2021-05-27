@@ -26,8 +26,8 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 
 # Upcoming Workshop
 ##  **IGR 8** (*June 25, 11:00am-01:00pm EST*)
-* **Cleo O'Brien-Udry**, “Aid, Blame, and Backlash: The Political Economy of Unpopular Aid”
 * **Calvin Lai & Jaclyn Lisnek**, "The Impact of Implicit Bias-Oriented Diversity Training on Police Officers' Beliefs, Motivations, and Actions"
+* **Cleo O'Brien-Udry**, “Aid, Blame, and Backlash: The Political Economy of Unpopular Aid”
 
  
 
