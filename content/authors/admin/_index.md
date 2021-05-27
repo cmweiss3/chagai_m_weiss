@@ -25,20 +25,17 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 
 
 # Upcoming Workshop
-
-##  **IGR 7** (*May 21, 11:00am-01:00pm EST*)
-* **Rebecca Littman, Alexandra Scacco and coauthors**, “[Reducing Intergroup Animosity in Nigeria through Entertainment Education Interventions](https://www.dropbox.com/s/hy9204ze8igj3t5/IGR%20DRAFT%20-%20Nigeria%20Entertainment%20Education%20%26%20Intergroup%20Relations.pdf?dl=0)”
-* **Omar Garcia Ponce**, “[The Paradox of Migration: Assessing Mexican Beliefs about the Inmigrante](https://www.dropbox.com/s/86ak3qzy9ekcpy5/Migrants_Project.pdf?dl=0)”
-
-
-
-# Future Workshops
-
 ##  **IGR 8** (*June 25, 11:00am-01:00pm EST*)
 * **Cleo O'Brien-Udry**, “Aid, Blame, and Backlash: The Political Economy of Unpopular Aid”
 * **Calvin Lai & Jaclyn Lisnek**, "The Impact of Implicit Bias-Oriented Diversity Training on Police Officers' Beliefs, Motivations, and Actions"
 
  
+
+
+
+# Future Workshops
+*Stay tuned for our call for applications to present at IGR in the 2021-2022 academic year.*
+
 
 
 # Workshop Organizers 
@@ -52,6 +49,11 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
  
  
 # Previous Workshops
+
+##  **IGR 7** (*May 21, 11:00am-01:00pm EST*)
+* **Rebecca Littman, Alexandra Scacco and coauthors**, “[Reducing Intergroup Animosity in Nigeria through Entertainment Education Interventions](https://www.dropbox.com/s/hy9204ze8igj3t5/IGR%20DRAFT%20-%20Nigeria%20Entertainment%20Education%20%26%20Intergroup%20Relations.pdf?dl=0)”
+* **Omar Garcia Ponce**, “[The Paradox of Migration: Assessing Mexican Beliefs about the Inmigrante](https://www.dropbox.com/s/86ak3qzy9ekcpy5/Migrants_Project.pdf?dl=0)”
+
 
 ##  **IGR 6** (*April 23, 11:00am-01:00pm EST*)
 * **Biz Herman**, “[Responses to Trauma: the Consequences of Conflict and Forced Migration on Social Stability](https://www.dropbox.com/s/zr03p4hexhb325q/Herman_TraumaMigration_0413.pdf?dl=0)”
