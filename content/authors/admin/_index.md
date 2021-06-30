@@ -27,7 +27,7 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 
 
 # Upcoming Workshop
-*Stay tuned for our call for applications to present at IGR in the 2021-2022 academic year.*
+*Stay tuned for updates on our schedule for the 2021-2022 academic year.*
 
  
 
