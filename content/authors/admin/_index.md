@@ -23,18 +23,16 @@ IGR seeks to bring together an interdisciplinary group of scholars engaged in em
 
 IGR is a “read-ahead” working group, meaning that selected presenters will circulate a research design, pre-analysis plan, or working paper a few weeks before the meeting. All attendees will be expected to read the selected materials in advance, and come prepared with comments. The meeting will be spent discussing each paper and providing feedback to authors. Please feel free to fill out this [sign up survey](https://uwmadison.co1.qualtrics.com/jfe/form/SV_cZtLjuTyRePJWEl), or reach out to IGR organizers if you are interested in joining our mailing list.
 
+*We are currently accepting applications for our Fall 2021 meetings. If you are interested in sharing your work, please fill out this [short application](https://uwmadison.co1.qualtrics.com/jfe/form/SV_cvC9ke7EYe806Wy).*
+
 
 # Upcoming Workshop
-##  **IGR 8** (*June 25, 11:00am-01:00pm EST*)
-* **Calvin Lai & Jaclyn Lisnek**, "[The Impact of Implicit Bias-Oriented Diversity Training on Police Officers' Beliefs, Motivations, and Actions](https://www.dropbox.com/s/bv3a8jv9e3c4xg5/Lai%20%26%20Lisnek%202021%20IGR%20-%20The%20impact%20of%20implicit%20bias-oriented%20diversity%20training%20on%20police%20officers.pdf?dl=0)"
-* **Cleo O'Brien-Udry**, “[Aid, Blame, and Backlash: The Political Economy of Unpopular Aid](https://www.dropbox.com/s/wof6mhbceat03tt/igr_o%27brien-udry2021.pdf?dl=0)”
+*Stay tuned for our call for applications to present at IGR in the 2021-2022 academic year.*
 
  
 
 
 
-# Future Workshops
-*Stay tuned for our call for applications to present at IGR in the 2021-2022 academic year.*
 
 
 
@@ -49,6 +47,11 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
  
  
 # Previous Workshops
+
+##  **IGR 8** (*June 25, 11:00am-01:00pm EST*)
+* **Calvin Lai & Jaclyn Lisnek**, "[The Impact of Implicit Bias-Oriented Diversity Training on Police Officers' Beliefs, Motivations, and Actions](https://www.dropbox.com/s/bv3a8jv9e3c4xg5/Lai%20%26%20Lisnek%202021%20IGR%20-%20The%20impact%20of%20implicit%20bias-oriented%20diversity%20training%20on%20police%20officers.pdf?dl=0)"
+* **Cleo O'Brien-Udry**, “[Aid, Blame, and Backlash: The Political Economy of Unpopular Aid](https://www.dropbox.com/s/wof6mhbceat03tt/igr_o%27brien-udry2021.pdf?dl=0)”
+
 
 ##  **IGR 7** (*May 21, 11:00am-01:00pm EST*)
 * **Rebecca Littman, Alexandra Scacco and coauthors**, “[Reducing Intergroup Animosity in Nigeria through Entertainment Education Interventions](https://www.dropbox.com/s/hy9204ze8igj3t5/IGR%20DRAFT%20-%20Nigeria%20Entertainment%20Education%20%26%20Intergroup%20Relations.pdf?dl=0)”
