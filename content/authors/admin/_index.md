@@ -27,7 +27,19 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 
 
 # Upcoming Workshop
-*Stay tuned for updates on our schedule for the 2021-2022 academic year.*
+##  **IGR 9** (*September 17, 11:00am-01:00pm EST*)
+* **Alice Xu**, "Segregation and the Spatial Externalities of Inequality: A Theory of Collateral Cooperation for Public Goods in Cities"
+* **Danny Choi**, “Mobile Communication Technology and National Identity in Sub-Saharan Africa”
+
+# Future Workshops
+##  **IGR 10** (*October 15, 11:00am-01:00pm EST*)
+* **Aliza Luft**, “Moral Shifting: Social Perception, Dehumanization, and the Plasticity of Moral Judgments About Violence”
+* **Laura Paler**, “How Mediated Intergroup Contact Changes Prejudice and Politics: Evidence from a Married at First Sight Experiment”
+
+
+##  **IGR 11** (*November 12, 11:00am-01:00pm EST*)
+* **Cydney Dupree**, “Words of a leader: An intersectional analysis of gender differences in leaders' speech”
+* **Dan Hopkins**, “Which News Goes Viral? Measuring Identity Threats and Engagement with News Media Posts on Twitter and Facebook”
 
  
 
