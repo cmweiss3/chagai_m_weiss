@@ -29,7 +29,7 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 # Upcoming Workshop
 ##  **IGR 9** (*September 17, 12:00-02:00pm EST*)
 * **Alice Xu**, "Segregation and the Spatial Externalities of Inequality: A Theory of Collateral Cooperation for Public Goods in Cities"
-* **Danny Choi**, “Mobile Communication Technology and National Identity in Sub-Saharan Africa”
+* **Danny Choi**, “[Mobile Communication Technology and National Identity in Sub-Saharan Africa](https://www.dropbox.com/s/v9n1re3nb1ydzl9/CLS_TechnologyID.pdf?dl=0)”
 
 # Future Workshops
 ##  **IGR 10** (*October 15, 12:00-02:00pm EST*)
