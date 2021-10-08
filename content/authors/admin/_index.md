@@ -27,15 +27,12 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 
 
 # Upcoming Workshop
-##  **IGR 9** (*September 17, 12:00-02:00pm EST*)
-* **Alice Xu**, "[Segregation and the Spatial Externalities of Inequality: A Theory of Collateral Cooperation for Public Goods in Cities](https://www.dropbox.com/s/t56lmat4skz0xlc/IGR_alicexu_090821.pdf?dl=0)"
-* **Danny Choi**, “[Mobile Communication Technology and National Identity in Sub-Saharan Africa](https://www.dropbox.com/s/v9n1re3nb1ydzl9/CLS_TechnologyID.pdf?dl=0)”
-
-# Future Workshops
 ##  **IGR 10** (*October 15, 12:00-02:00pm EST*)
 * **Aliza Luft**, “Moral Shifting: Social Perception, Dehumanization, and the Plasticity of Moral Judgments About Violence”
 * **Laura Paler**, “[How Mediated Intergroup Contact Changes Prejudice and Politics: Evidence from a Married at First Sight Experiment](https://www.dropbox.com/s/p9o0cpy86qrduho/MAFS_Contact_Design.pdf?dl=0)”
 
+
+# Future Workshops
 
 ##  **IGR 11** (*November 12, 12:00-02:00pm EST*)
 * **Cydney Dupree**, “Words of a leader: An intersectional analysis of gender differences in leaders' speech”
@@ -59,6 +56,9 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
  
  
 # Previous Workshops
+##  **IGR 9** (*September 17, 12:00-02:00pm EST*)
+* **Alice Xu**, "[Segregation and the Spatial Externalities of Inequality: A Theory of Collateral Cooperation for Public Goods in Cities](https://www.dropbox.com/s/t56lmat4skz0xlc/IGR_alicexu_090821.pdf?dl=0)"
+* **Danny Choi**, “[Mobile Communication Technology and National Identity in Sub-Saharan Africa](https://www.dropbox.com/s/v9n1re3nb1ydzl9/CLS_TechnologyID.pdf?dl=0)”
 
 ##  **IGR 8** (*June 25, 11:00am-01:00pm EST*)
 * **Calvin Lai & Jaclyn Lisnek**, "[The Impact of Implicit Bias-Oriented Diversity Training on Police Officers' Beliefs, Motivations, and Actions](https://www.dropbox.com/s/bv3a8jv9e3c4xg5/Lai%20%26%20Lisnek%202021%20IGR%20-%20The%20impact%20of%20implicit%20bias-oriented%20diversity%20training%20on%20police%20officers.pdf?dl=0)"
