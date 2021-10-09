@@ -28,7 +28,7 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 
 # Upcoming Workshop
 ##  **IGR 10** (*October 15, 12:00-02:00pm EST*)
-* **Aliza Luft**, “Moral Shifting: Social Perception, Dehumanization, and the Plasticity of Moral Judgments About Violence”
+* **Aliza Luft**, “[Moral Shifting: Social Perception, Dehumanization, and the Plasticity of Moral Judgments About Violence](https://www.dropbox.com/s/elp9yz4cd19joxh/Luft_MoralShifting_10082021.pdf?dl=0)”
 * **Laura Paler**, “[How Mediated Intergroup Contact Changes Prejudice and Politics: Evidence from a Married at First Sight Experiment](https://www.dropbox.com/s/p9o0cpy86qrduho/MAFS_Contact_Design.pdf?dl=0)”
 
 
