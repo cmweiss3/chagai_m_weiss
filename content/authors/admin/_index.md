@@ -27,19 +27,15 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 
 
 # Upcoming Workshop
-##  **IGR 10** (*October 15, 12:00-02:00pm EST*)
-* **Aliza Luft**, “[Moral Shifting: Social Perception, Dehumanization, and the Plasticity of Moral Judgments About Violence](https://www.dropbox.com/s/elp9yz4cd19joxh/Luft_MoralShifting_10082021.pdf?dl=0)”
-* **Laura Paler**, “[How Mediated Intergroup Contact Changes Prejudice and Politics: Evidence from a Married at First Sight Experiment](https://www.dropbox.com/s/p9o0cpy86qrduho/MAFS_Contact_Design.pdf?dl=0)”
-
-
-# Future Workshops
-
-##  **IGR 11** (*November 12, 12:00-02:00pm EST*)
+##  **IGR 11** (*November 19, 12:00-02:00pm EST*)
 * **Cydney Dupree**, “Words of a leader: An intersectional analysis of gender differences in leaders' speech”
 * **Dan Hopkins**, “Which News Goes Viral? Measuring Identity Threats and Engagement with News Media Posts on Twitter and Facebook”
 
  
 
+# Future Workshops
+
+## TBD
 
 
 
@@ -56,6 +52,12 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
  
  
 # Previous Workshops
+
+##  **IGR 10** (*October 15, 12:00-02:00pm EST*)
+* **Aliza Luft**, “[Moral Shifting: Social Perception, Dehumanization, and the Plasticity of Moral Judgments About Violence](https://www.dropbox.com/s/elp9yz4cd19joxh/Luft_MoralShifting_10082021.pdf?dl=0)”
+* **Laura Paler**, “[How Mediated Intergroup Contact Changes Prejudice and Politics: Evidence from a Married at First Sight Experiment](https://www.dropbox.com/s/p9o0cpy86qrduho/MAFS_Contact_Design.pdf?dl=0)”
+
+
 ##  **IGR 9** (*September 17, 12:00-02:00pm EST*)
 * **Alice Xu**, "[Segregation and the Spatial Externalities of Inequality: A Theory of Collateral Cooperation for Public Goods in Cities](https://www.dropbox.com/s/t56lmat4skz0xlc/IGR_alicexu_090821.pdf?dl=0)"
 * **Danny Choi**, “[Mobile Communication Technology and National Identity in Sub-Saharan Africa](https://www.dropbox.com/s/v9n1re3nb1ydzl9/CLS_TechnologyID.pdf?dl=0)”
