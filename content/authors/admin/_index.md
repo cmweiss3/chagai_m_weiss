@@ -28,7 +28,8 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 
 # Upcoming Workshop
 ##  **IGR 11** (*November 19, 12:00-02:00pm EST*)
-* **Cydney Dupree**, “Words of a leader: An intersectional analysis of gender differences in leaders' speech”
+* **Cydney Dupree**, “[Words of a leader: The Importance of Intersectionality for Understanding the Use and Reception of
+Dominant Language by Female Leaders](https://www.dropbox.com/s/uwee048fdw1pft8/Dupree%2C%202021%2C%20under%20review.pdf?dl=0)”
 * **Dan Hopkins**, “Which News Goes Viral? Measuring Identity Threats and Engagement with News Media Posts on Twitter and Facebook”
 
  
