@@ -27,17 +27,15 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 
 
 # Upcoming Workshop
-##  **IGR 11** (*November 19, 12:00-02:00pm EST*)
-* **Cydney Dupree**, “[Words of a leader: The Importance of Intersectionality for Understanding the Use and Reception of
-Dominant Language by Female Leaders](https://www.dropbox.com/s/uwee048fdw1pft8/Dupree%2C%202021%2C%20under%20review.pdf?dl=0)”
-* **Dan Hopkins**, “[Which News Goes Viral? Measuring Identity Threats and Engagement with News Media Posts on Twitter and Facebook](https://www.dropbox.com/s/b0dythd9wsbgnka/Facebook_Identity_Hopkins_Lelkes_Wolken_11122021.pdf?dl=0)”
+##  **IGR 12** (*March 24 15, 12:00-02:00pm EST*)
+* **Nina McMurry**, “Tribes that vote together: evaluating the effect of Indigenous polling places in the Philippines.”
+* **Roni Porat (with Eran Halperin and Kinneret Endevelt)**, “The influence of institutional signals on minority achievements in higher education.”
 
  
 
 # Future Workshops
 
 ## TBD
-
 
 
 
@@ -53,6 +51,12 @@ Dominant Language by Female Leaders](https://www.dropbox.com/s/uwee048fdw1pft8/D
  
  
 # Previous Workshops
+
+##  **IGR 11** (*November 19, 12:00-02:00pm EST*)
+* **Cydney Dupree**, “[Words of a leader: The Importance of Intersectionality for Understanding the Use and Reception of
+Dominant Language by Female Leaders](https://www.dropbox.com/s/uwee048fdw1pft8/Dupree%2C%202021%2C%20under%20review.pdf?dl=0)”
+* **Dan Hopkins**, “[Which News Goes Viral? Measuring Identity Threats and Engagement with News Media Posts on Twitter and Facebook](https://www.dropbox.com/s/b0dythd9wsbgnka/Facebook_Identity_Hopkins_Lelkes_Wolken_11122021.pdf?dl=0)”
+
 
 ##  **IGR 10** (*October 15, 12:00-02:00pm EST*)
 * **Aliza Luft**, “[Moral Shifting: Social Perception, Dehumanization, and the Plasticity of Moral Judgments About Violence](https://www.dropbox.com/s/elp9yz4cd19joxh/Luft_MoralShifting_10082021.pdf?dl=0)”
