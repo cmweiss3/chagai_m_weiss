@@ -27,7 +27,7 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 
 
 # Upcoming Workshop
-##  **IGR 12** (*March 24 15, 12:00-02:00pm EST*)
+##  **IGR 12** (*March 24 15, 10:00-12:00pm EST*)
 * **Nina McMurry**, “Tribes that vote together: evaluating the effect of Indigenous polling places in the Philippines.”
 * **Roni Porat (with Eran Halperin and Kinneret Endevelt)**, “The influence of institutional signals on minority achievements in higher education.”
 
