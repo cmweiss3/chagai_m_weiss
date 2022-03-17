@@ -23,7 +23,6 @@ IGR seeks to bring together an interdisciplinary group of scholars engaged in em
 
 IGR is a “read-ahead” working group, meaning that selected presenters will circulate a research design, pre-analysis plan, or working paper a few weeks before the meeting. All attendees will be expected to read the selected materials in advance, and come prepared with comments. The meeting will be spent discussing each paper and providing feedback to authors. Please feel free to fill out this [sign up survey](https://uwmadison.co1.qualtrics.com/jfe/form/SV_cZtLjuTyRePJWEl), or reach out to IGR organizers if you are interested in joining our mailing list.
 
-*We are currently accepting applications for our Fall 2021 meetings. If you are interested in sharing your work, please fill out this [short application](https://uwmadison.co1.qualtrics.com/jfe/form/SV_cvC9ke7EYe806Wy).*
 
 
 # Upcoming Workshop
