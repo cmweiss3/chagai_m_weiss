@@ -29,7 +29,8 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 ##  **IGR 12** (*March 24 15, 10:00-12:00pm EST*)
 * **Nina McMurry**, “[The Electoral Effects of Indigenous Polling Places in the
 Philippines.](https://www.dropbox.com/s/pu512de0uvsens2/mcmurry_vote_together_igr.pdf?dl=0)”
-* **Roni Porat (with Eran Halperin and Kinneret Endevelt)**, “The influence of institutional signals on minority achievements in higher education.”
+* **Roni Porat (with Eran Halperin and Kinneret Endevelt)**, “[Zoom in : Institutional Signals on Zoom Increase Minority’s Achievements in Higher
+Education.](https://www.dropbox.com/s/10nnp6wnx1a2xf3/roni_combined.pdf?dl=0)”
 
  
 
