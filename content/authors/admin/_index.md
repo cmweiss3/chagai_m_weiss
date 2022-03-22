@@ -30,7 +30,7 @@ IGR is a “read-ahead” working group, meaning that selected presenters will c
 * **Nina McMurry**, “[The Electoral Effects of Indigenous Polling Places in the
 Philippines.](https://www.dropbox.com/s/pu512de0uvsens2/mcmurry_vote_together_igr.pdf?dl=0)”
 * **Roni Porat (with Eran Halperin and Kinneret Endevelt)**, “[Zoom in : Institutional Signals on Zoom Increase Minority’s Achievements in Higher
-Education.](https://www.dropbox.com/s/10nnp6wnx1a2xf3/roni_combined.pdf?dl=0)”
+Education.](https://www.dropbox.com/s/am0d83kvy1n687n/IGR_Manuscript_roni.pdf?dl=0)” ([Appendix](https://www.dropbox.com/s/y7d59cks2ynv864/IGR_SM.pdf?dl=0))
 
  
 
