@@ -45,7 +45,7 @@ Education.](https://www.dropbox.com/s/am0d83kvy1n687n/IGR_Manuscript_roni.pdf?dl
 
  - [Rebecca Littman](http://www.rebeccalittman.com/) - [<i class="fas fa-envelope"></i>](mailto:rlittman@uic.edu)
  - [Alexandra Scacco](https://www.wzb.eu/en/persons/alexandra-scacco) - [<i class="fas fa-envelope"></i>](mailto:alex.scacco@wzb.eu)
- - [Chagai M. Weiss](https://www.chagaimweiss.com/) - [<i class="fas fa-envelope"></i>](mailto:cmweiss3@wisc.edu)
+ - [Chagai M. Weiss](https://www.chagaiweiss.com/) - [<i class="fas fa-envelope"></i>](mailto:cmweiss3@wisc.edu)
  - [Cara Wong](http://carawong.org/) - [<i class="fas fa-envelope"></i>](mailto:carawong@illinois.edu)
 
 
